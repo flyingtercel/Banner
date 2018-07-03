@@ -1,0 +1,407 @@
+{
+    "data": {
+        "topbanner": [
+            {
+                "id": "6748",
+                "title": "2018.6.22 赵老师全国培训",
+                "content": null,
+                "fromCourseSetId": "673",
+                "startTime": "1529656800",
+                "date": "0622 16:40",
+                "image": {
+                    "id": "673",
+                    "title": "美课堂内训",
+                    "cover": {
+                        "large": "public://default/2018/04-28/15141572d36f713725.jpg",
+                        "middle": "public://default/2018/04-28/15141572e0ac918278.jpg",
+                        "small": "public://default/2018/04-28/15141572e9a2744311.jpg"
+                    },
+                    "studentNum": "14",
+                    "categoryId": "24"
+                },
+                "large": "http://www.dameiketang.com/files/default/2018/04-28/15141572d36f713725.jpg",
+                "middle": "http://www.dameiketang.com/files/default/2018/04-28/15141572e0ac918278.jpg",
+                "small": "http://www.dameiketang.com/files/default/2018/04-28/15141572e9a2744311.jpg",
+                "studentNum": "14"
+            },
+            {
+                "id": "6740",
+                "title": "第六天：经典短发修剪",
+                "content": null,
+                "fromCourseSetId": "810",
+                "startTime": "1530752400",
+                "date": "0705 09:00",
+                "image": {
+                    "id": "810",
+                    "title": "美发直播间——李彩文",
+                    "cover": {
+                        "large": "public://default/2018/06-05/183351f9a23a231672.jpg",
+                        "middle": "public://default/2018/06-05/183351f9ad31857829.jpg",
+                        "small": "public://default/2018/06-05/183351f9b182557527.jpg"
+                    },
+                    "studentNum": "3",
+                    "categoryId": "24"
+                },
+                "large": "http://www.dameiketang.com/files/default/2018/06-05/183351f9a23a231672.jpg",
+                "middle": "http://www.dameiketang.com/files/default/2018/06-05/183351f9ad31857829.jpg",
+                "small": "http://www.dameiketang.com/files/default/2018/06-05/183351f9b182557527.jpg",
+                "studentNum": "3"
+            }
+        ],
+        "livecourse": {
+            "title": "正在直播",
+            "more": "正在直播加载更多",
+            "courseid": "806",
+            "type": "live",
+            "data": [
+                {
+                    "id": "6693",
+                    "title": "第三天  点绘、点染款式",
+                    "content": null,
+                    "fromCourseSetId": "806",
+                    "startTime": "1529931600",
+                    "date": "0625 21:00",
+                    "image": {
+                        "id": "806",
+                        "title": "美甲课程直播——聂峰",
+                        "cover": {
+                            "large": "public://default/2018/06-21/182339bdd425863079.jpg",
+                            "middle": "public://default/2018/06-21/182339bde1c2263190.jpg",
+                            "small": "public://default/2018/06-21/182339bdeb35440723.jpg"
+                        },
+                        "studentNum": "67",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-21/182339bdd425863079.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-21/182339bde1c2263190.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-21/182339bdeb35440723.jpg",
+                    "studentNum": "67",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6707",
+                    "title": "第三天  点绘、点染款式",
+                    "content": null,
+                    "fromCourseSetId": "808",
+                    "startTime": "1529929800",
+                    "date": "0625 20:30",
+                    "image": {
+                        "id": "808",
+                        "title": "美甲课程直播",
+                        "cover": [],
+                        "studentNum": "11",
+                        "categoryId": "4"
+                    }
+                }
+            ],
+            "categoryId": "24"
+        },
+        "sooncourse": {
+            "title": "即将直播",
+            "more": "即将直播加载更多",
+            "courseid": "801",
+            "type": "soon",
+            "data": [
+                {
+                    "id": "6663",
+                    "title": "7月2号  Classic日式BOB",
+                    "content": null,
+                    "fromCourseSetId": "801",
+                    "startTime": "1530532800",
+                    "date": "0702 20:00",
+                    "image": {
+                        "id": "801",
+                        "title": "美发课程直播——戴伟佳",
+                        "cover": {
+                            "large": "public://default/2018/06-05/181613db91a3527213.jpg",
+                            "middle": "public://default/2018/06-05/181613db9e1a507457.jpg",
+                            "small": "public://default/2018/06-05/181613dba76f501701.jpg"
+                        },
+                        "studentNum": "40",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-05/181613db91a3527213.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-05/181613db9e1a507457.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-05/181613dba76f501701.jpg",
+                    "studentNum": "40",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6664",
+                    "title": "7月3号  菱形BOB讲解square",
+                    "content": null,
+                    "fromCourseSetId": "801",
+                    "startTime": "1530619200",
+                    "date": "0703 20:00",
+                    "image": {
+                        "id": "801",
+                        "title": "美发课程直播——戴伟佳",
+                        "cover": {
+                            "large": "public://default/2018/06-05/181613db91a3527213.jpg",
+                            "middle": "public://default/2018/06-05/181613db9e1a507457.jpg",
+                            "small": "public://default/2018/06-05/181613dba76f501701.jpg"
+                        },
+                        "studentNum": "40",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-05/181613db91a3527213.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-05/181613db9e1a507457.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-05/181613dba76f501701.jpg",
+                    "studentNum": "40",
+                    "categoryId": "24"
+                }
+            ],
+            "categoryId": "24"
+        },
+        "qualitycourse": {
+            "title": "品质精选",
+            "more": "品质精选加载更多",
+            "courseid": "673",
+            "type": "quality",
+            "data": [
+                {
+                    "id": "6650",
+                    "title": "杨老师培训",
+                    "content": null,
+                    "fromCourseSetId": "673",
+                    "startTime": "1527585300",
+                    "date": "0529 17:15",
+                    "image": {
+                        "id": "673",
+                        "title": "美课堂内训",
+                        "cover": {
+                            "large": "public://default/2018/04-28/15141572d36f713725.jpg",
+                            "middle": "public://default/2018/04-28/15141572e0ac918278.jpg",
+                            "small": "public://default/2018/04-28/15141572e9a2744311.jpg"
+                        },
+                        "studentNum": "14",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/04-28/15141572d36f713725.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/04-28/15141572e0ac918278.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/04-28/15141572e9a2744311.jpg",
+                    "studentNum": "14",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6659",
+                    "title": "6月直播课程表落地说明会",
+                    "content": null,
+                    "fromCourseSetId": "673",
+                    "startTime": "1527841800",
+                    "date": "0601 16:30",
+                    "image": {
+                        "id": "673",
+                        "title": "美课堂内训",
+                        "cover": {
+                            "large": "public://default/2018/04-28/15141572d36f713725.jpg",
+                            "middle": "public://default/2018/04-28/15141572e0ac918278.jpg",
+                            "small": "public://default/2018/04-28/15141572e9a2744311.jpg"
+                        },
+                        "studentNum": "14",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/04-28/15141572d36f713725.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/04-28/15141572e0ac918278.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/04-28/15141572e9a2744311.jpg",
+                    "studentNum": "14",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6677",
+                    "title": "6月11日  时尚童趣妆",
+                    "content": null,
+                    "fromCourseSetId": "804",
+                    "startTime": "1528695000",
+                    "date": "0611 13:30",
+                    "image": {
+                        "id": "804",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "89",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "89",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6678",
+                    "title": "6月12号  夏日果冻妆",
+                    "content": null,
+                    "fromCourseSetId": "804",
+                    "startTime": "1528781400",
+                    "date": "0612 13:30",
+                    "image": {
+                        "id": "804",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "89",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "89",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6679",
+                    "title": "6月13号  人鱼妆",
+                    "content": null,
+                    "fromCourseSetId": "804",
+                    "startTime": "1528867800",
+                    "date": "0613 13:30",
+                    "image": {
+                        "id": "804",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "89",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "89",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6680",
+                    "title": "6月14号  轻奢鲜花造型技巧",
+                    "content": null,
+                    "fromCourseSetId": "804",
+                    "startTime": "1528954200",
+                    "date": "0614 13:30",
+                    "image": {
+                        "id": "804",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "89",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "89",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6682",
+                    "title": "6月20号  简约复古造型",
+                    "content": null,
+                    "fromCourseSetId": "804",
+                    "startTime": "1529474400",
+                    "date": "0620 14:00",
+                    "image": {
+                        "id": "804",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "89",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "89",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6683",
+                    "title": "6月19号  时尚秀场、创意妆",
+                    "content": null,
+                    "fromCourseSetId": "804",
+                    "startTime": "1529387100",
+                    "date": "0619 13:45",
+                    "image": {
+                        "id": "804",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "89",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "89",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6684",
+                    "title": "6月11日  时尚童趣妆",
+                    "content": null,
+                    "fromCourseSetId": "805",
+                    "startTime": "1528695000",
+                    "date": "0611 13:30",
+                    "image": {
+                        "id": "805",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "0",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "0",
+                    "categoryId": "24"
+                },
+                {
+                    "id": "6685",
+                    "title": "6月12号  夏日果冻妆",
+                    "content": null,
+                    "fromCourseSetId": "805",
+                    "startTime": "1528781400",
+                    "date": "0612 13:30",
+                    "image": {
+                        "id": "805",
+                        "title": "形象设计直播——景语",
+                        "cover": {
+                            "large": "public://default/2018/06-19/11174489ddf7111498.jpg",
+                            "middle": "public://default/2018/06-19/11174489e955803742.jpg",
+                            "small": "public://default/2018/06-19/11174489f2f5245393.jpg"
+                        },
+                        "studentNum": "0",
+                        "categoryId": "24"
+                    },
+                    "large": "http://www.dameiketang.com/files/default/2018/06-19/11174489ddf7111498.jpg",
+                    "middle": "http://www.dameiketang.com/files/default/2018/06-19/11174489e955803742.jpg",
+                    "small": "http://www.dameiketang.com/files/default/2018/06-19/11174489f2f5245393.jpg",
+                    "studentNum": "0",
+                    "categoryId": "24"
+                }
+            ],
+            "categoryId": "24"
+        }
+    },
+    "code": 200
+}
